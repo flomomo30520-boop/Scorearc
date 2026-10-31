@@ -1,0 +1,11 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "releaseDate": "2026-03-30",
+  "downloadUrl": "https://votre-site.com/downloads/scorearena-release.apk",
+  "changelog": [
+    "Version initiale de Score Arena.",
+    "Gestion des scores et des réglages."
+  ],
+  "mandatory": false
+}
